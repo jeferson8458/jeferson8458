@@ -16,6 +16,6 @@
  
 <div> 
  
- ![Snake animation](https://github.com/jeferson8458/jeferson8458/tree/main/.github/fluxos%20de%20trabalho)
+ ![Snake animation](https://github.com/jeferson8458/jeferson8458/blob/output/github-contribution-grid-snake.svg)
  
 </div>
