@@ -1,6 +1,11 @@
 <h1 align="center">Oi 👋, Eu sou Dev Jeferson Dantas</h1>
 <h3 align="center">Um desenvolvedor Web apaixonado. Adoro construir sites bonitos com a mais recente tecnologia disponível😄
 </h3>
+
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebucks27&label=Profile%20views&color=0e75b6&style=flat" alt="codebucks27" /> </p>
+
+
 <div align="center">
   <a href="https://github.com/jeferson8458">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeferson8458&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
