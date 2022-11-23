@@ -10,7 +10,6 @@
 <h3 align="left">▶ Conecte-se comigo:</h3>
 <p align="left">
   <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="codebucks" height="30" width="40" /></a>
-  <a href="https://dev.to/codebucks" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="codebucks27" height="30" width="40" /></a>
   <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
   
@@ -22,4 +21,12 @@
 
 </br>
 </br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebucks27&show_icons=true&locale=en" alt="codebucks27" /></p>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebucks27&" alt="codebucks27" /></p> -->
+</br>
+
+<h3 align="left">▶ Support:</h3>
+<p><a href="https://www.buymeacoffee.com/CodeBucks"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br><br>
 
