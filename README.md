@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Dev Jeferson Dantas</h1>
-<h3 align="center">A passionate Web developer. Love to build beautiful websites with latest tech available😄
+<h3 align="center">Um desenvolvedor Web apaixonado. Adoro construir sites bonitos com a mais recente tecnologia disponível😄
 </h3>
 <div align="center">
   <a href="https://github.com/jeferson8458">
