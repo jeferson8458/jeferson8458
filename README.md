@@ -1,4 +1,6 @@
-## Olá eu sou a Jeferson Dantas, Progamador Full-Stack!
+<h1 align="center">Hi 👋, I'm CodeBucks</h1>
+<h3 align="center">A passionate Web developer. Love to build beautiful websites with latest tech available😄
+</h3>
 <div align="center">
   <a href="https://github.com/jeferson8458">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeferson8458&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
