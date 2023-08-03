@@ -17,6 +17,24 @@
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="codepen"/>
 </a>
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="codepen"/>
+</a>
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5" alt="codepen"/>
+</a>
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Html-05122A?style=flat&logo=css3" alt="codepen"/>
+</a>
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react" alt="codepen"/>
+</a>
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react" alt="codepen"/>
+</a>
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="codepen"/>
+</a>
 
 
 ## Contact
