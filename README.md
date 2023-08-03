@@ -4,16 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeferson8458&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Dev Full-Stack Pleno Web Developer & Mobile
 
 - ⚡ Looking for a new vacancy
 
-- 👨‍💻 More at [devjeferson](https://jefersondantas.com.br/)
+- 👨‍💻 Portfolio [devjeferson](https://jefersondantas.com.br/)
 
 
   <br><br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="codepen"/>
 </a>
@@ -36,23 +36,12 @@
   <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="codepen"/>
 </a>
 
+ <br><br>
 
-## Contact
+## 📱 Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://www.linkedin.com/in/jeferson-dantas-a2962a231/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="codepen"/>
 </a>
 </p>
