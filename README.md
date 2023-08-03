@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Oneye 😜**
 
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 More at [devjeferson](https://jefersondantas.com.br/)
 
 
   <br><br>
