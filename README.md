@@ -15,6 +15,15 @@
 
 ## 🛠️ Tech Stack
 <a href="https://github.com/jeferson8458" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react" alt="codepen"/>
+</a>
+<a href="https://github.com/jeferson8458" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react" alt="codepen"/>
+</a>
+<a href="https://github.com/jeferson8458" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="codepen"/>
+</a>
+<a href="https://github.com/jeferson8458" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="codepen"/>
 </a>
 <a href="https://github.com/jeferson8458" target="_blank">
@@ -30,16 +39,7 @@
   <img align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" alt="codepen"/>
 </a>
 <a href="https://github.com/jeferson8458" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react" alt="codepen"/>
-</a>
-<a href="https://github.com/jeferson8458" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react" alt="codepen"/>
-</a>
-<a href="https://github.com/jeferson8458" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="codepen"/>
-</a>
-<a href="https://github.com/jeferson8458" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="codepen"/>
 </a>
 <a href="https://github.com/jeferson8458" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=sharp" alt="codepen"/>
