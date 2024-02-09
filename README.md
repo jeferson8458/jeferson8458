@@ -36,7 +36,7 @@
   <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="codepen"/>
 </a>
 <a href="https://github.com/jeferson8458" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=python" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="codepen"/>
 </a>
 
  <br><br>
