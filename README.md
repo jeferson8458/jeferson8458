@@ -38,6 +38,12 @@
 <a href="https://github.com/jeferson8458" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="codepen"/>
 </a>
+<a href="https://github.com/jeferson8458" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Sharp-05122A?style=flat&logo=sharp" alt="codepen"/>
+</a>
+<a href="https://github.com/jeferson8458" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" alt="codepen"/>
+</a>
 
  <br><br>
 
