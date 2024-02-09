@@ -24,7 +24,7 @@
   <img align="center" src="https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5" alt="codepen"/>
 </a>
 <a href="https://github.com/jeferson8458" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Html-05122A?style=flat&logo=css3" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" alt="codepen"/>
 </a>
 <a href="https://github.com/jeferson8458" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react" alt="codepen"/>
