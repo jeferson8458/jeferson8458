@@ -27,6 +27,9 @@
   <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="codepen"/>
 </a>
 <a href="https://github.com/jeferson8458" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=whitet" alt="codepen"/>
+</a>
+<a href="https://github.com/jeferson8458" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" alt="codepen"/>
 </a>
 <a href="https://github.com/jeferson8458" target="_blank">
