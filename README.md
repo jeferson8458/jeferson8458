@@ -21,6 +21,9 @@
   <img align="center" src="https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js" alt="codepen"/>
 </a>
 <a href="https://github.com/jeferson8458" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Bun-05122A?style=flat&logo=bun" alt="codepen"/>
+</a>
+<a href="https://github.com/jeferson8458" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5" alt="codepen"/>
 </a>
 <a href="https://github.com/jeferson8458" target="_blank">
