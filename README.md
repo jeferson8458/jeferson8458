@@ -6,8 +6,6 @@
 
 - 🔥 Dev Pleno Web Developer & Mobile
 
-- ⚡ Looking for a new vacancy
-
 - 👨‍💻 Portfolio [devjeferson](https://jefersondantas.com.br/)
 
 
