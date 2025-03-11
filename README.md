@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeferson8458&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Dev Full-Stack Pleno Web Developer & Mobile
+- 🔥 Dev Pleno Web Developer & Mobile
 
 - ⚡ Looking for a new vacancy
 
