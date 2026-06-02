@@ -25,7 +25,6 @@ Desenvolvedor full stack focado em **React**, **React Native** e **Node.js**, co
 
 - 💼 Desenvolvedor Web & Mobile (Pleno)
 - 🌎 Rio de Janeiro, Brasil
-- 🚀 Atualmente aprofundando em [escreva aqui o que está estudando — ex: arquitetura de microsserviços, testes automatizados, etc.]
 - 🤝 Aberto a oportunidades e colaborações
 - 🌐 Portfólio: [jefersondantas.com.br](https://jefersondantas.com.br/)
 
@@ -76,8 +75,8 @@ Desenvolvedor full stack focado em **React**, **React Native** e **Node.js**, co
 Quer trocar uma ideia ou conversar sobre um projeto?
 
 - 🌐 **Portfólio:** [jefersondantas.com.br](https://jefersondantas.com.br/)
-- 💼 **LinkedIn:** [adicione seu link aqui](SEU_LINK_DO_LINKEDIN)
-- 📧 **Email:** seu-email@exemplo.com
+- 💼 **LinkedIn:** [adicione seu link aqui](https://www.linkedin.com/in/jefersondantas)
+- 📧 **Email:** contato@jefersondantas.com.br
 
 <div align="center">
 
