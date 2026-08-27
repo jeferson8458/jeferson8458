@@ -2,10 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Jeferson+Dantas;Full+Stack+Developer;Sistemas+corporativos+%2F+APIs+%2F+Integra%C3%A7%C3%B5es;6%2B+anos+colocando+sistema+em+produ%C3%A7%C3%A3o" alt="Jeferson Dantas" />
 
-<a href="https://jefersondantas.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-0D1117?style=flat-square&logo=vercel&logoColor=00FF9C&labelColor=0D1117" alt="Portfólio"/></a>
-<a href="https://www.linkedin.com/in/jefersondantas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00FF9C&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="mailto:contato@jefersondantas.com.br"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00FF9C&labelColor=0D1117" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=jeferson8458&style=flat-square&color=00FF9C&label=visitantes" alt="Profile views"/>
+<br/>
+
+<a href="https://jefersondantas.com.br/" target="_blank"><img src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C&labelColor=0D1117" alt="Portfólio"/></a>
+<a href="https://www.linkedin.com/in/jefersondantas" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:contato@jefersondantas.com.br"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0D1117" alt="Email"/></a>
 
 </div>
 
@@ -47,8 +48,8 @@ $ uptime
 
 **Back-end**  
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=512BD4)
-![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=9B7BE0)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=9B7BE0)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=flat-square&logo=spring&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
@@ -60,16 +61,24 @@ $ uptime
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
 
 **Dados & Infra**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=4A9FD8)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+
+---
+
+## 🚀 Projetos
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| [**Sistema de Etiquetas**](https://github.com/jeferson8458/SistemadeEtiquetas) | Integração direta com impressora Elgin L42 PRO FULL para emissão de etiquetas | `C#` `.NET` |
+| [**Finanças Pessoais**](https://github.com/jeferson8458/fincancias-pessoais) | Controle de receitas, despesas e categorias | `Java` |
+| **LMS** _(privado)_ | Plataforma de cursos — SPA de arquivo único sobre API própria | `TypeScript` `Node.js` |
 
 ---
 
@@ -77,21 +86,8 @@ $ uptime
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jeferson8458&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson8458&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeferson8458&theme=github-compact&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🚀 Projetos
-
-<div align="center">
-
-<a href="https://github.com/jeferson8458/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeferson8458&repo=REPO-1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" /></a>
-<a href="https://github.com/jeferson8458/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeferson8458&repo=REPO-2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" /></a>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jeferson8458&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson8458&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
