@@ -1,70 +1,97 @@
 <div align="center">
 
-# Oi, eu sou Jeferson Dantas 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Jeferson+Dantas;Full+Stack+Developer;Sistemas+corporativos+%2F+APIs+%2F+Integra%C3%A7%C3%B5es;6%2B+anos+colocando+sistema+em+produ%C3%A7%C3%A3o" alt="Jeferson Dantas" />
 
-### Desenvolvedor Web & Mobile
-
-Desenvolvedor full stack focado em **React**, **React Native** e **Node.js**, construindo aplicações web e mobile com foco em performance, código limpo e boa experiência de uso.
-
-<a href="https://jefersondantas.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-</a>
-<a href="SEU_LINK_DO_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:SEU_EMAIL_AQUI">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=jeferson8458&style=for-the-badge&color=blue&label=Visualizações" alt="Profile views"/>
+<a href="https://jefersondantas.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-0D1117?style=flat-square&logo=vercel&logoColor=00FF9C&labelColor=0D1117" alt="Portfólio"/></a>
+<a href="https://www.linkedin.com/in/jefersondantas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00FF9C&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:contato@jefersondantas.com.br"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00FF9C&labelColor=0D1117" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=jeferson8458&style=flat-square&color=00FF9C&label=visitantes" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+```bash
+$ whoami
+> Jeferson Dantas — Full Stack Developer @ Rio de Janeiro, BR
 
-- 💼 Desenvolvedor Web & Mobile (Pleno)
-- 🌎 Rio de Janeiro, Brasil
-- 🤝 Aberto a oportunidades e colaborações
-- 🌐 Portfólio: [jefersondantas.com.br](https://jefersondantas.com.br/)
+$ cat stack.json
+{
+  "backend":   ["Node.js", "C# / .NET", "Java / Spring", "Python"],
+  "frontend":  ["React", "React Native", "Angular", "TypeScript"],
+  "database":  ["SQL Server", "MySQL", "SQLite"],
+  "legacy":    ["Classic ASP", "JScript", "IIS"]
+}
 
----
+$ cat focus.md
+> Sistemas corporativos de missão crítica, integrações fiscais e bancárias,
+> modernização de legado sem derrubar o que já roda em produção.
 
-## 🛠️ Tech Stack
-
-**Front-end**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Back-end**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+$ uptime
+> 6+ anos · do Classic ASP de 2003 ao React Native de ontem
+```
 
 ---
 
-## 📊 Estatísticas
+## ⚙️ O que eu faço
+
+- **Sistemas corporativos** — folha de pagamento, faturamento e gestão para clientes dos setores marítimo, de engenharia e saúde.
+- **Integrações que não podem falhar** — NFS-e (padrão nacional / DANFSe), APIs bancárias de pagamento em lote, webservices governamentais.
+- **Legado é comigo** — mantenho e evoluo sistemas em Classic ASP/JScript rodando há mais de uma década, migrando módulo a módulo para stack moderna.
+- **Mobile & Web** — React, React Native, Angular e Node.js, do endpoint ao build na loja.
+- **Do meu lado** — sócio da JDL Soluções em Sistemas, onde levanto requisito, desenvolvo, entrego e dou suporte. Ponta a ponta.
+
+---
+
+## 🧰 Stack
+
+**Back-end**  
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=512BD4)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring](https://img.shields.io/badge/Spring-0D1117?style=flat-square&logo=spring&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![Bun](https://img.shields.io/badge/Bun-0D1117?style=flat-square&logo=bun&logoColor=FBF0DF)
+
+**Front-end**  
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
+
+**Dados & Infra**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+
+---
+
+## 📊 Métricas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeferson8458&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jeferson8458&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson8458&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson8458&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeferson8458&theme=github-compact&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jeferson8458&theme=tokyonight&hide_border=true)
+</div>
+
+---
+
+## 🚀 Projetos
+
+<div align="center">
+
+<a href="https://github.com/jeferson8458/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeferson8458&repo=REPO-1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" /></a>
+<a href="https://github.com/jeferson8458/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jeferson8458&repo=REPO-2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" /></a>
 
 </div>
 
@@ -72,14 +99,13 @@ Desenvolvedor full stack focado em **React**, **React Native** e **Node.js**, co
 
 ## 📫 Contato
 
-Quer trocar uma ideia ou conversar sobre um projeto?
-
-- 🌐 **Portfólio:** [jefersondantas.com.br](https://jefersondantas.com.br/)
-- 💼 **LinkedIn:** [adicione seu link aqui](https://www.linkedin.com/in/jefersondantas)
-- 📧 **Email:** contato@jefersondantas.com.br
+```
+portfólio  →  https://jefersondantas.com.br
+linkedin   →  https://linkedin.com/in/jefersondantas
+email      →  contato@jefersondantas.com.br
+status     →  aberto a oportunidades e freelas
+```
 
 <div align="center">
-
-⭐️ De [jeferson8458](https://github.com/jeferson8458)
-
+<sub><code>// código limpo não é sobre estética, é sobre o próximo dev que abrir o arquivo</code></sub>
 </div>
